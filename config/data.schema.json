@@ -1,0 +1,7 @@
+{
+    "fields": {
+        "test_field1": {"default": "isa is default to Str"},
+        "test_field2": {"isa": "Int"},
+        "test_field3": {"required": true}
+    }
+}
